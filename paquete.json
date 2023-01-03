@@ -1,0 +1,76 @@
+{
+    "nombre": "EXTASIS_BOT",
+    "versión": "1.0.0",
+    "description": "SUSCRÍBETE AL CANAL OFICIAL DE EXTASIS-BOT",
+    "principal": "index.js",
+    "tipo": "módulo",
+    "directorios": {
+        "lib": "lib",
+        "origen": "origen",
+        "complementos": "complementos"
+    },
+    "guiones": {
+        "inicio": "nodo index.js",
+        "prueba": "prueba de nodo.js",
+        "prueba2": "índice de nodemon.js"
+    },
+    "página de inicio": "https://github.com/TOXICO47/EXTASIS-V1.git",
+    "autor": {
+        "nombre": "OFC-ALVARITO-YTS"
+    },
+    "repositorio": {
+        "tipo": "git",
+        "url": "git+https://github.com/TOXICO47/EXTASIS-V1.git"
+    },
+    "insectos": {
+        "url": "https://github.com/TOXICO47/EXTASIS-V1.git/issues"
+    },
+    "licencia": "GPL-3.0-o posterior",
+    "dependencias": {
+        "@adiwajshing/baileys": "^4.4.0",
+        "@bochilteam/raspador": "^3.0.0",
+        "@vitalets/google-translate-api": "^8.0.0",
+        "acrcloud": "^1.4.0",
+        "api-dylux": "^1.1.1",
+        "número de teléfono impresionante": "^2.68.0",
+        "axios": "^0.24.0",
+        "cfonts": "^2.10.0",
+        "tiza": "^5.0.0",
+        "cheerio": "^1.0.0-rc.10",
+        "colores": "1.4.0",
+        "emoji-api": "^1.0.2",
+        "expreso": "^4.17.3",
+        "fb-downloader-scrapper": "^1.0.1",
+        "fg-ig": "^0.0.1",
+        "fg-twitter": "^0.0.9",
+        "tipo-de-archivo": "^17.1.1",
+        "ffmpeg fluido": "^2.1.2",
+        "fs": "^0.0.1-seguridad",
+        "formdata-node": "^4.3.2",
+        "glob-fs": "^0.1.7",
+        "legible por humanos": "^0.2.1",
+        "hxz-api": "^1.0.1",
+        "jsdom": "^19.0.0",
+        "vínculo-vista previa-js": "^2.1.13",
+        "lodash": "^4.17.21",
+        "bajadb": "^3.0.0",
+        "momento-zona horaria": "^0.5.34",
+        "mangosta": "^6.3.3",
+        "búsqueda de nodo": "^3.2.0",
+        "nodo-gtts": "^2.0.2",
+        "nodo-webpmux": "^3.1.1",
+        "perf_hooks": "^0.0.1",
+        "pino": "^7.8.0",
+        "pino-bonita": "^7.5.1",
+        "qrcode": "^1.5.0",
+        "terminal de código qr": "^0.12.0",
+        "readline": "^1.3.0",
+        "similitud": "^1.2.1",
+        "socket.io": "^4.4.1",
+        "error de sintaxis": "^1.4.0",
+        "imagen-terminal": "^2.0.0",
+        "url-regex-seguro": "^3.0.0",
+        "wa-sticker-formateador": "^4.3.2",
+        "yargs": "^17.3.1"
+    }
+}
