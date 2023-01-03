@@ -35,4 +35,20 @@
 ├❏> rm -rf Extasis-session
 ├❏> npm start 
 └────ׂ─ׂ─ׂ─ׂ───
+```
+### `♥️AJUSTES🥰`
+- CAMBIAR NÚMERO DE PROPIETARIO [Aqui](https://github.com/TOXICO47/EXTASIS-V1.git/blob/master/config.js)
+> ##### WhatsApp recomendado por el creador del Bot
+* [Opción 1 - WhatsApp Recomendado](https://www.mediafire.com/file/o80pni1rfi0n6zz/ʙᴜsͨɪͧɴᷨᴇͣs๋ᷡsͦ_V6_PRIMARIO.apk/file).
 
+* [Opción 2 - WhatsApp Recomendado](https://www.mediafire.com/file/4kkiwpxvciabjf5/ʙᴜsͨɪͧɴᷨᴇͣs๋ᷡsͦ_V6_SECUNDARIO.apk/file).
+## `PORPIETARIO DEL BOT` 
+[![EXTASIS-V1]()](https://github.com/TOXICO47/EXTASIS-V1.git.) 
+```bash
+
+
+
+
+
+`OFC_EL_TOXICO47_ALVARITO-YTS"` 
+```
