@@ -20,5 +20,19 @@
 ├❏npm install
 ├❏npm start
 └────ׂ─ׂ─ׂ─ׂ───
-
+```
+### `NOTAS`
+```bash
+┌「𝙲𝙾𝙼𝙰𝙽𝙳𝙾𝚂」
+├❏> Para activar algunos comandos como 
+├❏el #añadir y #sacar el propietario del 
+├❏Bot debera usar el comando #enable restrict 
+├❏desde el numero que haya puesto en el archivo 
+├❏config.js
+┌「𝙲𝙾𝙼𝙰𝙽𝙳𝙾𝚂」
+├❏> Para obtener nuevamente el codigo QR, escribe en el termux:
+├❏> cd EXTASIS-V1
+├❏> rm -rf Extasis-session
+├❏> npm start 
+└────ׂ─ׂ─ׂ─ׂ───
 
