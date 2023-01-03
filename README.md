@@ -20,3 +20,4 @@
 ├❏npm start
 └────ׂ─ׂ─ׂ─ׂ───
 
+![Badge en Desarollo](https://wa.me51987812647/CONECTATE-CON%20CREADOR-green)
