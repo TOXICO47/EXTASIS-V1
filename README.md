@@ -3,7 +3,6 @@
 
 [![Grupo de WhatsApp](https://img.shields.io/badge/GRUPO_OFICIAL_1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/HVS8bYYWJoiAcbm2yGMpB8/CG5ZPcJ22fL7QjNRzjguD0)
 
-![Badge en Desarollo](https://www.facebook.com/RENEALVARO47GITHUB?mibextid=ZbWKwL/badge/CONTACTAME-EN%20FACEBOOK-green)
 
 ###🌱𝐀𝐂𝐓𝐈𝐕𝐀 𝐄𝐋 𝐓𝐄𝐑𝐌𝐔𝐗☘️
 ```bash
@@ -21,4 +20,5 @@
 ├❏npm install
 ├❏npm start
 └────ׂ─ׂ─ׂ─ׂ───
-![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green)
+
+
