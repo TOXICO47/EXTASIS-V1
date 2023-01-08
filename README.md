@@ -15,6 +15,7 @@
 <a href="http://wa.me/51967239713" target="blank"><img src="https://img.shields.io/badge/࿇۝⃟⃢ ★†‡ALVARO2‡†★ ⃢ ⃟۝⃟࿇_♥️.1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 
+
 ###😈INSTALA EN TERMUX 😈
 ```bash
 ┌「𝙲𝙾𝙼𝙰𝙽𝙳𝙾𝚂 𝚃𝙴𝚁𝙼𝚄𝚇」
@@ -40,12 +41,7 @@
 ├❏Bot debera usar el comando #enable restrict 
 ├❏desde el numero que haya puesto en el archivo 
 ├❏config.js
-┌「𝙲𝙾𝙼𝙰𝙽𝙳𝙾𝚂」
-├❏> Para obtener nuevamente el codigo QR, escribe en el termux:
-├❏> cd EXTASIS-V1
-├❏> rm -rf Extasis-session
-├❏> npm start 
-└────ׂ─ׂ─ׂ─ׂ───
+
 ```
 
 ### `♥️AJUSTES🥰`
@@ -72,3 +68,11 @@
 - ATENTO A LAS ACTUALIZACIONES QUE SE HAGAN EN ESTE REPOSITORIO
 - EL ADD Y EL KICK PUEDEN OCASIONAR QUE EL NUMERO SE VAYA A SOPORTE POR ELLO SE ACTIVA CON #enable restrict 
 - EL TOXICO47 - TEAM NO SE HACE RESPONSABLE DEL USO, NUMEROS, PRIVACIDAD Y CONTENIDO MANDADO, USADO O GESTIONADO POR USTEDES O EL BOT
+
+### 𝐎𝐁𝐓𝐄𝐍𝐄𝐑 𝐎𝐓𝐑𝐎 𝐂𝐎𝐃𝐈𝐆𝐎 𝐐𝐑 <img src="http://4.bp.blogspot.com/-mFQY5cKLkQ0/U0kwKQn5RzI/AAAAAAAADk0/FDOXxWZ9grU/s1600/QR-code-color.png" height="30px">
+┌「𝙲𝙾𝙼𝙰𝙽𝙳𝙾𝚂」
+├❏> Para obtener nuevamente el codigo QR, escribe en el termux:
+├❏> cd EXTASIS-V1
+├❏> rm -rf Extasis-session
+├❏> npm start 
+└────ׂ─ׂ─ׂ─ׂ───
