@@ -4,6 +4,8 @@
 
 # `🧿 THE EXTASIS BOT MD 🔮`
 
+<a href="#"><img title="The-Extasis bot" src="https://img.shields.io/badge/COMPATIBLE CON LA VERSIÓN MULTI DISPOSITIVOS DE WHATSAPP-red?colorA=%F77F48FF&colorB=%F77F48FF&style=for-the-badge">
+
 ### `—◉ 👑 DUDAS SOBRE EL BOT?, CONTACTANOS 👑
 
 <a href="http://wa.me/51987812647" target="blank"><img src="https://img.shields.io/badge/creador-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
