@@ -43,6 +43,7 @@
 ├❏> npm start 
 └────ׂ─ׂ─ׂ─ׂ───
 ```
+
 ### `♥️AJUSTES🥰`
 - CAMBIAR NÚMERO DE PROPIETARIO [Aqui](https://github.com/TOXICO47/EXTASIS-V1.git/blob/master/config.js)
 > ##### WhatsApp recomendado por el creador del Bot
@@ -50,14 +51,15 @@
 
 * [Opción 2 - WhatsApp Recomendado](https://www.mediafire.com/file/4kkiwpxvciabjf5/ʙᴜsͨɪͧɴᷨᴇͣs๋ᷡsͦ_V6_SECUNDARIO.apk/file).
 ## `PORPIETARIO DEL BOT` 
-[![EXTASIS-V1]()](https://github.com/TOXICO47/EXTASIS-V1.git.) 
-```bash
+
 
 
 ### `—◉ 🖍 LETRA DEL BOT EXTASIS 🖍`
+
 - PAGINA USADA PARA LA LETRA [Aqui](https://smiley.cool/es/weirdmaker.php)
 ### `—◉ 💰 DONAR 💰`
 - AGRADECE CON UNA DONACION VOLUNTARIA [Aqui](https://www.paypal.me/Moisesalvaro47)
+
 
 ### `—◉ 📝 NOTAS 📝`
 - ES POSIBLE QUE EL BOT TENGA ALGUNAS FALLAS, SE IRAN SOLUCIONANDO CONFORME SE VAYAN DETECTANDO
