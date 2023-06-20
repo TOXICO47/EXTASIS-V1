@@ -8,6 +8,17 @@
 
 ### `—◉ 👑 DUDAS SOBRE EL BOT?, CONTACTANOS 👑
 
+<!DOCTYPE html>
+<html>
+  <body>
+
+    <h1>My Website</h1>
+    
+    <img src="img/android.jpg">
+    
+  </body>
+</html>
+
 ]![blog](https://img.shields.io/badge/Instagram-1877F2?style=for-the-badge&logo=Instagram&color=pink)
 
 [![blog](https://img.shields.io/badge/TikTok-1877F2?style=for-the-badge&logo=Tiktok&logoColor=red&white&blue)
